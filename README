@@ -1,0 +1,42 @@
+-------------------------------------------------------------------------------
+BRENT MLU
+-------------------------------------------------------------------------------
+brent mlu contains all of the files necessary to extract lemma and mean-length
+of utterance data from the Brent corpus. These programs can also be expanded to
+parse any morphologically parsed CHILDES corpus.
+
+--Files--
+cat_files.py
+get_brent.py
+get_mlu.py
+gld.py
+get_lemmas.py
+get_orth_lemm.py
+
+-------------------------------------------------------------------------------
+CONTENTS
+-------------------------------------------------------------------------------
+The following files can be found in the current directory:
+
+cat_files.py
+get_brent.py
+get_mlu.py
+gld.py
+get_lemmas.py
+get_orth_lemm.py
+
+TO BE COMPLETED    
+-------------------------------------------------------------------------------
+HOW TO USE
+-------------------------------------------------------------------------------
+
+TO BE COMPLETED
+
+-------------------------------------------------------------------------------
+CREDITS
+-------------------------------------------------------------------------------
+The brent mlu tools were created by Joseph Coffey while working in the lab of
+Dr. Daniel Swingley at the Penn Infant Language Center, a lab in the Institute
+for Research in Cognitive Science at the University of Pennsylvania.
+
+Updated as of 12/15/16
